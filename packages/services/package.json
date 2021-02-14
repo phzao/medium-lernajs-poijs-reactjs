@@ -1,0 +1,22 @@
+{
+  "name": "@secretapp/services",
+  "version": "0.0.1",
+  "description": "Services packages",
+  "keywords": [],
+  "author": "pHz <photelho@mail.com>",
+  "license": "ISC",
+  "source": "src/index.js",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@secretapp/components",
+  "version": "0.0.1",
+  "description": "componets",
+  "keywords": [],
+  "author": "pHz <photelho@mail.com>",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "source": "src/index.js",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
